@@ -9,7 +9,7 @@ Active software bounties for the 0xBitcoin Community.
 
 2. Raiden Specification for Lava Wallet 
 
-    Bounty of 500 0xBTC tokens for a detailed specification and sample implementation for a method for opening, closing, and transacting with Raiden state channels within LavaWallet
+    Bounty of 500 0xBTC tokens for a detailed specification and sample implementation for a method for opening, closing, and transacting with Raiden state channels within LavaWallet.  This includes documentation and description of how a third party Dapp would accept this state channel and transactions.  
 
 3. Desktop App for [Lava Wallet](https://github.com/admazzola/lava-wallet) 
 
